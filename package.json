@@ -1,5 +1,5 @@
 {
-  "name": "ai-pitch",
+  "name": "@lxgicstudios/ai-pitch",
   "version": "1.0.0",
   "description": "AI-powered pitch deck helper - investor-ready slides and narratives with GPT",
   "main": "dist/index.js",
