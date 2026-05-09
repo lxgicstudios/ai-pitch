@@ -15,34 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
+    "automation",
+    "business",
     "claude",
-    "llm",
-    "openai",
-    "gpt",
+    "cli",
+    "deck",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
     "pitch",
     "presentation",
-    "startup",
-    "investor",
-    "deck",
-    "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
-    "nodejs",
-    "business",
-    "slides"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-pitch#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-pitch.git"
+    "url": "https://github.com/LXGIC-Studios/ai-pitch"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-pitch/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-pitch/issues"
   },
   "funding": {
     "type": "github",
