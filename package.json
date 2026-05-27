@@ -1,74 +1,68 @@
 {
-  "name": "@lxgicstudios/ai-pitch",
-  "version": "1.0.0",
-  "description": "AI-powered pitch deck helper - investor-ready slides and narratives with GPT",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-pitch": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "business",
-    "claude",
-    "cli",
-    "deck",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "pitch",
-    "presentation",
-    "seo",
-    "seo-2026",
-    "typescript"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-pitch#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-pitch"
-  },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-pitch/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "url": "https://github.com/lxgicstudios/ai-pitch/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
+  "description": "AI-powered pitch deck helper - investor-ready slides and narratives with GPT",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-pitch#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai-optimized",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-pitch",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-pitch"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
